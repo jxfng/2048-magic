@@ -85,7 +85,6 @@ Still updating! Issues and Pull Requests are super welcome—let’s make this g
 ## 🙏 Acknowledgements
 
 Thanks to the following sponsors for supporting this project:
-- [None](https://#/) for providing the server
 
 ---
 _Last updated: May 2025_
