@@ -36,7 +36,7 @@ def move(board, direction):
                         new_board[temp_row - 1][col] *= 2
                         new_board[temp_row][col] = 0
                         merged[temp_row - 1][col] = True
-
+    #下
     elif direction == 'down':
         for col in range(4):
             for row in range(2, -1, -1):
